@@ -1,4 +1,4 @@
-# encryption - 암호화
+# Encryption - 암호화
 ![암호화](https://user-images.githubusercontent.com/24876345/142786548-350a25e9-6ce3-4280-b091-13c4ab2a2077.PNG)
 
 ## 양방향 알고리즘
